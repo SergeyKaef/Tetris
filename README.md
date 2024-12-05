@@ -46,4 +46,4 @@
 -	Поддержка мобильных платформ через Xamarin или MAUI.
 -	Улучшение AI для тренировки новичков в режиме "Учебная игра".  
 ## **Ссылка на техническое задание**
-- [**Техническое задание**](https://github.com/SergeyKaef/Salkov_Project/blob/8334e732b08a1d58f93bf8a0bd8e33ef455a318a/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.md)
+- [**Техническое задание**](https://github.com/SergeyKaef/tetris_game/blob/6a70c8f40d8bf8100afcf5f460bac59105136516/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.md)
