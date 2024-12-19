@@ -86,14 +86,14 @@
             this.паузаToolStripMenuItem.Name = "паузаToolStripMenuItem";
             this.паузаToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.паузаToolStripMenuItem.Text = "Пауза";
-            this.паузаToolStripMenuItem.Click += new System.EventHandler(this.OnPauseButtonClick);
+           
             // 
             // начатьЗановоToolStripMenuItem
             // 
             this.начатьЗановоToolStripMenuItem.Name = "начатьЗановоToolStripMenuItem";
             this.начатьЗановоToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.начатьЗановоToolStripMenuItem.Text = "Начать заново";
-            this.начатьЗановоToolStripMenuItem.Click += new System.EventHandler(this.OnAgainButtonClick);
+          
             // 
             // label3
             // 
@@ -109,7 +109,7 @@
             this.справкаToolStripMenuItem.Name = "справкаToolStripMenuItem";
             this.справкаToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.справкаToolStripMenuItem.Text = "Справка";
-            this.справкаToolStripMenuItem.Click += new System.EventHandler(this.OnInfoPressed);
+           
             // 
             // Form1
             // 
@@ -124,7 +124,6 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Tetris";
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.OnPaint);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
